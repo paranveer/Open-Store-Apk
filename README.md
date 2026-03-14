@@ -1,57 +1,46 @@
 # Open Store
 
-Open Store is an Android-first Flutter app that helps you discover, download, install, update, open, and uninstall apps in one compact place.
+Open Store is an Android-first Flutter app that gives you a compact way to browse, download, install, update, open, and manage your apps from one place.
 
 ![Open Store App Icon](assets/icons/open_store_icon.png)
 
 ## Use Case
 
-Use Open Store when you want a simple app store experience for your curated apps, with clear app details, version visibility, and safe install checks.
+Use Open Store when you want a simple app hub that shows what is available, what is already installed, and when an upgrade is ready.
 
 ## Features
 
-- Compact app list with fast search
-- App details dialog with:
-  - Current installed version
-  - Available version (even before download)
-  - Use case, features, and permissions
-- Smart actions based on app state:
-  - Download
-  - Pause / Resume
-  - Install / Upgrade
-  - Open
-  - Redownload
-  - Uninstall
-- Download integrity verification before install
-- Better retry and source handling for large APK downloads
-- Smooth, lightweight transitions for a cleaner UI feel
-- Open Store Admin app is hidden from normal store users
-- Feedback system with status tracking
-- Activity logs with copy and clear controls
-- Appearance options: Light, Dark, System
-- Auto refresh interval control
-- Check for Open Store updates from Settings
+- Compact app list with search and fast refresh
+- App cards with icons, install state, and action buttons
+- App details with available version, installed version, features, and permissions
+- Download, pause, install, upgrade, open, redownload, and uninstall actions
+- Integrity check before install for supported packages
+- Feedback section with status tracking for each app
+- Activity log with copy, clear, and visibility controls
+- Theme options: Light, Dark, and System
+- Automatic refresh interval control
+- Open Store update check from Settings
 
 ## Permissions Required (For Users)
 
 Open Store may require:
 
-- `INTERNET`: To fetch app details and download APKs
-- `POST_NOTIFICATIONS` (device dependent): To notify update availability
-- `Install unknown apps` system setting: To install APK files
+- `INTERNET`: To load app details and download APK files
+- `POST_NOTIFICATIONS`: To notify when app updates are available on supported devices
+- `Install unknown apps` system setting: To allow APK installation on your device
 
-Open Store does **not** require camera, microphone, contacts, or location for normal store usage.
+Open Store does **not** require camera, microphone, contacts, or location for normal use.
 
 ## How To Use
 
 1. Open Open Store.
-2. Use search or scroll to find your app.
-3. Tap `Download`.
-4. Tap `Install` after download completes.
-5. Use `Open` for installed apps.
-6. Use `Upgrade` when a newer version is available.
-7. Use `Uninstall` to remove apps from device.
-8. Open Feedback from any app card to report issues or suggestions.
+2. Search for the app you want or browse the list.
+3. Tap `Download` to fetch the APK.
+4. Tap `Install` after the download completes.
+5. Tap `Open` for installed apps.
+6. Tap `Upgrade` when a newer version is available.
+7. Tap `Uninstall` if you want to remove an installed app.
+8. Open the feedback option on an app if you want to report an issue or share a suggestion.
 
 ## Feedback
 
