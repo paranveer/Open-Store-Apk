@@ -1,15 +1,15 @@
 <div align="center">
   <h1>Open Store</h1>
-  <p><strong>Latest Version:</strong> 1.5.9</p>
-  <p><strong>Build Number:</strong> 159</p>
-  <p><strong>Build Date:</strong> 18-03-2026 01:08 am</p>
-  <p><strong>SHA1:</strong> e1bb45eb324a6de987d35c82837dd61db6cfef7c</p>
+  <p><strong>Latest Version:</strong> 1.6.0</p>
+  <p><strong>Build Number:</strong> 160</p>
+  <p><strong>Build Date:</strong> 18-03-2026 01:46 am</p>
+  <p><strong>SHA1:</strong> 3457ec786c37d978eab8734d9b8cd08851674a65</p>
   <p><strong>Status:</strong> Ready for Android release</p>
 </div>
 
 ![Open Store App Icon](assets/icons/open_store_icon.png)
 
-<div align="center"> <h1>Open Store</h1> <p><strong>Latest Version:</strong> 1.5.8</p> <p><strong>Build Number:</strong> 158</p> <p><strong>Build Date:</strong> 17-03-2026 03:47 am</p> <p><strong>SHA1:</strong> 05132875d761aa5194cf89987790dc90d2443bee</p> <p><strong>Status:</strong> Ready for Android release</p> </div>
+A new Flutter project.
 
 > Checksum note: Use SHA1 only if you want to verify the downloaded APK is unchanged.
 
