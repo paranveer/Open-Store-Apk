@@ -1,8 +1,22 @@
-# Open Store
-
-Open Store is an Android-first Flutter app that gives you a compact way to browse, download, install, update, open, and manage your apps from one place.
+<div align="center">
+  <h1>Open Store</h1>
+  <p><strong>Latest Version:</strong> 1.5.9</p>
+  <p><strong>Build Number:</strong> 159</p>
+  <p><strong>Build Date:</strong> 18-03-2026 01:08 am</p>
+  <p><strong>SHA1:</strong> e1bb45eb324a6de987d35c82837dd61db6cfef7c</p>
+  <p><strong>Status:</strong> Ready for Android release</p>
+</div>
 
 ![Open Store App Icon](assets/icons/open_store_icon.png)
+
+<div align="center"> <h1>Open Store</h1> <p><strong>Latest Version:</strong> 1.5.8</p> <p><strong>Build Number:</strong> 158</p> <p><strong>Build Date:</strong> 17-03-2026 03:47 am</p> <p><strong>SHA1:</strong> 05132875d761aa5194cf89987790dc90d2443bee</p> <p><strong>Status:</strong> Ready for Android release</p> </div>
+
+> Checksum note: Use SHA1 only if you want to verify the downloaded APK is unchanged.
+
+## Before You Start
+
+- If you are installing the APK manually, allow `Install unknown apps` for the browser or file manager that opens it.
+- Open the app after installation and grant the required Android permissions when prompted.
 
 ## Use Case
 
@@ -24,12 +38,25 @@ Use Open Store when you want a simple app hub that shows what is available, what
 ## Permissions Required (For Users)
 
 Open Store may require:
-
 - `INTERNET`: To load app details and download APK files
 - `POST_NOTIFICATIONS`: To notify when app updates are available on supported devices
 - `Install unknown apps` system setting: To allow APK installation on your device
-
 Open Store does **not** require camera, microphone, contacts, or location for normal use.
+
+## Privacy
+
+This app is intended to use only the permissions needed for its core Android features.
+It does not require file, photo, video, or audio storage access for normal use.
+It does not declare contacts or location access in the Android manifest.
+
+## Important Notes
+
+- `Notifications` help the app show status updates and alerts.
+
+## Supported Device
+
+- Android only.
+- Minimum Android version: not detected automatically from the app Gradle file.
 
 ## How To Use
 
@@ -41,6 +68,11 @@ Open Store does **not** require camera, microphone, contacts, or location for no
 6. Tap `Upgrade` when a newer version is available.
 7. Tap `Uninstall` if you want to remove an installed app.
 8. Open the feedback option on an app if you want to report an issue or share a suggestion.
+
+## How to Disable / Uninstall
+
+1. Open the app and turn off any monitoring, blocking, or protection features you enabled.
+2. After that, uninstall the app normally from the launcher or Android Settings.
 
 ## Feedback
 
