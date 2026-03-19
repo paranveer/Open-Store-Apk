@@ -1,9 +1,9 @@
 <div align="center">
   <h1>Open Store</h1>
-  <p><strong>Latest Version:</strong> 1.6.0</p>
-  <p><strong>Build Number:</strong> 160</p>
-  <p><strong>Build Date:</strong> 18-03-2026 01:46 am</p>
-  <p><strong>SHA1:</strong> 3457ec786c37d978eab8734d9b8cd08851674a65</p>
+  <p><strong>Latest Version:</strong> 1.6.1</p>
+  <p><strong>Build Number:</strong> 161</p>
+  <p><strong>Build Date:</strong> 18-03-2026 11:41 pm</p>
+  <p><strong>SHA1:</strong> 5d930225234e4455fb8565204bc2055826e06587</p>
   <p><strong>Status:</strong> Ready for Android release</p>
 </div>
 
@@ -12,6 +12,11 @@
 A new Flutter project.
 
 > Checksum note: Use SHA1 only if you want to verify the downloaded APK is unchanged.
+
+## Download URL
+
+- Release download path: [https://github.com/paranveer/Open-Store-Apk/releases/download/open-store-admin-large-files](https://github.com/paranveer/Open-Store-Apk/releases/download/open-store-admin-large-files)
+- Always download the latest available Open Store version from this release path.
 
 ## Before You Start
 
@@ -34,6 +39,11 @@ Use Open Store when you want a simple app hub that shows what is available, what
 - Theme options: Light, Dark, and System
 - Automatic refresh interval control
 - Open Store update check from Settings
+
+## Improvements / Bug Fixes
+
+- This build includes the latest user-visible improvements and bug fixes for Open Store.
+- Stability, polish, and maintenance updates available at build time are included in this package.
 
 ## Permissions Required (For Users)
 
