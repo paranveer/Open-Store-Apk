@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Open Store</h1>
-  <p><strong>Latest Version:</strong> 1.6.3</p>
-  <p><strong>Build Date:</strong> 19-03-2026 12:53 am</p>
-  <p><strong>SHA1:</strong> b6a95273733d9254f354f3050fa866452ac745e4</p>
+  <p><strong>Latest Version:</strong> 1.6.6</p>
+  <p><strong>Build Date:</strong> 19-03-2026 07:09 am</p>
+  <p><strong>SHA1:</strong> 0926c85a0c4f813836deb55535e6e45c1d2e2884</p>
   <p><strong>Status:</strong> Ready for Android release</p>
 </div>
 
@@ -14,7 +14,7 @@ Open Store is an Android-first Flutter app that helps users discover, download, 
 
 ## Download URL
 
-- Direct latest APK download: [https://github.com/paranveer/Open-Store-Apk/releases/download/open-store-admin-large-files/Open_Store_ver_1.6.3.apk](https://github.com/paranveer/Open-Store-Apk/releases/download/open-store-admin-large-files/Open_Store_ver_1.6.3.apk)
+- Direct latest APK download: [https://github.com/paranveer/Open-Store-Apk/releases/download/open-store-admin-large-files/Open_Store_ver_1.6.6.apk](https://github.com/paranveer/Open-Store-Apk/releases/download/open-store-admin-large-files/Open_Store_ver_1.6.6.apk)
 - Release page: [https://github.com/paranveer/Open-Store-Apk/releases/tag/open-store-admin-large-files](https://github.com/paranveer/Open-Store-Apk/releases/tag/open-store-admin-large-files)
 - Always download the latest available Open Store version.
 - If the direct file link does not work for you, open the release page and download the newest APK shown there.
@@ -26,20 +26,13 @@ Open Store is an Android-first Flutter app that helps users discover, download, 
 
 ## Use Case
 
-Use Open Store when you want a simple app hub that shows what is available, what is already installed, and when an upgrade is ready.
+Use Open Store when you want its main experience on Android with a simple, direct flow.
 
 ## Features
 
-- Compact app list with search and fast refresh
-- App cards with icons, install state, and action buttons
-- App details with available version, installed version, features, and permissions
-- Download, pause, install, upgrade, open, redownload, and uninstall actions
-- Integrity check before install for supported packages
-- Feedback section with status tracking for each app
-- Activity log with copy, clear, and visibility controls
-- Theme options: Light, Dark, and System
-- Automatic refresh interval control
-- Open Store update check from Settings
+- Android release build prepared for end users
+- Current app assets bundled alongside the packaged APK
+- User-facing README updated for this release
 
 ## Improvements / Bug Fixes
 
@@ -48,11 +41,10 @@ Use Open Store when you want a simple app hub that shows what is available, what
 
 ## Permissions Required (For Users)
 
-Open Store may require:
-- `INTERNET`: To load app details and download APK files
-- `POST_NOTIFICATIONS`: To notify when app updates are available on supported devices
-- `Install unknown apps` system setting: To allow APK installation on your device
-Open Store does **not** require camera, microphone, contacts, or location for normal use.
+- `INTERNET`: required by the app on Android
+- `POST_NOTIFICATIONS`: required by the app on Android
+- `REQUEST_DELETE_PACKAGES`: required by the app on Android
+- `REQUEST_INSTALL_PACKAGES`: required by the app on Android
 
 ## Privacy
 
@@ -67,23 +59,19 @@ It does not declare contacts or location access in the Android manifest.
 ## Supported Device
 
 - Android only.
-- Minimum Android version: not detected automatically from the app Gradle file.
+- Minimum Android version: Android 5.0 (API 21).
 
 ## How To Use
 
-1. Open Open Store.
-2. Search for the app you want or browse the list.
-3. Tap `Download` to fetch the APK.
-4. Tap `Install` after the download completes.
-5. Tap `Open` for installed apps.
-6. Tap `Upgrade` when a newer version is available.
-7. Tap `Uninstall` if you want to remove an installed app.
-8. Open the feedback option on an app if you want to report an issue or share a suggestion.
+1. Install `Open_Store_ver_1.6.6.apk` on your Android device.
+2. Open Open Store.
+3. Grant any required permissions when prompted.
+4. Use the app normally.
 
 ## How to Disable / Uninstall
 
-1. Open the app and turn off any monitoring, blocking, or protection features you enabled.
-2. After that, uninstall the app normally from the launcher or Android Settings.
+1. No special disable steps are required for Open Store.
+2. Uninstall Open Store normally from the launcher or Android Settings.
 
 ## Feedback
 
