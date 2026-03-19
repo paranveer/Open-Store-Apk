@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Open Store</h1>
-  <p><strong>Latest Version:</strong> 1.6.6</p>
-  <p><strong>Build Date:</strong> 19-03-2026 07:09 am</p>
-  <p><strong>SHA1:</strong> 0926c85a0c4f813836deb55535e6e45c1d2e2884</p>
+  <p><strong>Latest Version:</strong> 1.6.7</p>
+  <p><strong>Build Date:</strong> 19-03-2026 08:44 am</p>
+  <p><strong>SHA1:</strong> c389356a158bb56c59eda9e64eba389ca0840335</p>
   <p><strong>Status:</strong> Ready for Android release</p>
 </div>
 
@@ -14,7 +14,7 @@ Open Store is an Android-first Flutter app that helps users discover, download, 
 
 ## Download URL
 
-- Direct latest APK download: [https://github.com/paranveer/Open-Store-Apk/releases/download/open-store-admin-large-files/Open_Store_ver_1.6.6.apk](https://github.com/paranveer/Open-Store-Apk/releases/download/open-store-admin-large-files/Open_Store_ver_1.6.6.apk)
+- Direct latest APK download: [https://github.com/paranveer/Open-Store-Apk/releases/download/open-store-admin-large-files/Open_Store_ver_1.6.7.apk](https://github.com/paranveer/Open-Store-Apk/releases/download/open-store-admin-large-files/Open_Store_ver_1.6.7.apk)
 - Release page: [https://github.com/paranveer/Open-Store-Apk/releases/tag/open-store-admin-large-files](https://github.com/paranveer/Open-Store-Apk/releases/tag/open-store-admin-large-files)
 - Always download the latest available Open Store version.
 - If the direct file link does not work for you, open the release page and download the newest APK shown there.
