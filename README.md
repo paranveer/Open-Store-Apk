@@ -1,22 +1,23 @@
 <div align="center">
   <h1>Open Store</h1>
-  <p><strong>Latest Version:</strong> 1.6.1</p>
-  <p><strong>Build Number:</strong> 161</p>
-  <p><strong>Build Date:</strong> 18-03-2026 11:41 pm</p>
-  <p><strong>SHA1:</strong> 5d930225234e4455fb8565204bc2055826e06587</p>
+  <p><strong>Latest Version:</strong> 1.6.2</p>
+  <p><strong>Build Date:</strong> 19-03-2026 12:11 am</p>
+  <p><strong>SHA1:</strong> 0622160f77d5e3512d00ffd5e959ad8066015ec9</p>
   <p><strong>Status:</strong> Ready for Android release</p>
 </div>
 
 ![Open Store App Icon](assets/icons/open_store_icon.png)
 
-A new Flutter project.
+Open Store is an Android-first Flutter app that helps users discover, download, install, and update apps from one simple place.
 
 > Checksum note: Use SHA1 only if you want to verify the downloaded APK is unchanged.
 
 ## Download URL
 
-- Release download path: [https://github.com/paranveer/Open-Store-Apk/releases/download/open-store-admin-large-files](https://github.com/paranveer/Open-Store-Apk/releases/download/open-store-admin-large-files)
-- Always download the latest available Open Store version from this release path.
+- Direct latest APK download: [https://github.com/paranveer/Open-Store-Apk/releases/download/open-store-admin-large-files/Open_Store_ver_1.6.2.apk](https://github.com/paranveer/Open-Store-Apk/releases/download/open-store-admin-large-files/Open_Store_ver_1.6.2.apk)
+- Release page: [https://github.com/paranveer/Open-Store-Apk/releases/tag/open-store-admin-large-files](https://github.com/paranveer/Open-Store-Apk/releases/tag/open-store-admin-large-files)
+- Always download the latest available Open Store version.
+- If the direct file link does not work for you, open the release page and download the newest APK shown there.
 
 ## Before You Start
 
@@ -42,8 +43,8 @@ Use Open Store when you want a simple app hub that shows what is available, what
 
 ## Improvements / Bug Fixes
 
-- This build includes the latest user-visible improvements and bug fixes for Open Store.
-- Stability, polish, and maintenance updates available at build time are included in this package.
+- This version includes the latest improvements and fixes for Open Store.
+- Minor issues from earlier versions have been fixed to make the app smoother and easier to use.
 
 ## Permissions Required (For Users)
 
