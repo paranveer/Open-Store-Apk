@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Open Store</h1>
-  <p><strong>Latest Version:</strong> 1.6.2</p>
-  <p><strong>Build Date:</strong> 19-03-2026 12:11 am</p>
-  <p><strong>SHA1:</strong> 0622160f77d5e3512d00ffd5e959ad8066015ec9</p>
+  <p><strong>Latest Version:</strong> 1.6.3</p>
+  <p><strong>Build Date:</strong> 19-03-2026 12:53 am</p>
+  <p><strong>SHA1:</strong> b6a95273733d9254f354f3050fa866452ac745e4</p>
   <p><strong>Status:</strong> Ready for Android release</p>
 </div>
 
@@ -14,7 +14,7 @@ Open Store is an Android-first Flutter app that helps users discover, download, 
 
 ## Download URL
 
-- Direct latest APK download: [https://github.com/paranveer/Open-Store-Apk/releases/download/open-store-admin-large-files/Open_Store_ver_1.6.2.apk](https://github.com/paranveer/Open-Store-Apk/releases/download/open-store-admin-large-files/Open_Store_ver_1.6.2.apk)
+- Direct latest APK download: [https://github.com/paranveer/Open-Store-Apk/releases/download/open-store-admin-large-files/Open_Store_ver_1.6.3.apk](https://github.com/paranveer/Open-Store-Apk/releases/download/open-store-admin-large-files/Open_Store_ver_1.6.3.apk)
 - Release page: [https://github.com/paranveer/Open-Store-Apk/releases/tag/open-store-admin-large-files](https://github.com/paranveer/Open-Store-Apk/releases/tag/open-store-admin-large-files)
 - Always download the latest available Open Store version.
 - If the direct file link does not work for you, open the release page and download the newest APK shown there.
@@ -87,8 +87,6 @@ It does not declare contacts or location access in the Android manifest.
 
 ## Feedback
 
-Have a suggestion, bug report, or feature request?
+For general suggestions, new ideas, or improvements for Open Store itself, use the Feedback option in the Open Store Settings section.
 
-[![Feedback Button](https://img.shields.io/badge/Feedback-Share%20Your%20Ideas-1F9BAB?style=for-the-badge)](/issues/new?labels=feedback&title=%5BFeedback%5D%20)
-
-You can use the feedback button above to tell us what else should be added.
+For bug reports or new feature requests related to any app shown inside Open Store, use that app's own Feedback option from its app card or details view.
