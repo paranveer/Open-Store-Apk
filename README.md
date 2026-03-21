@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Open Store</h1>
-  <p><strong>Latest Available Version:</strong> 1.7.7</p>
-  <p><strong>Build Date and Time(UST)</strong> Not available</p>
-  <p><strong>SHA1</strong> Not available</p>
+  <p><strong>Latest Available Version:</strong> 1.7.8</p>
+  <p><strong>Build Date and Time(UST)</strong> 21-MAR-2026 05:52 AM</p>
+  <p><strong>SHA1</strong> fed55d4e5781e0bca7b869119800c88e7927a2a7</p>
   <p><strong>Platform</strong> Android</p>
 </div>
 
@@ -36,15 +36,15 @@ Common features include:
 - Manual Open Store update checks now refresh the installed app version more reliably, so the update status should stay correct after you tap `Check for Open Store Update`.
 - Open Store now keeps the latest version details saved locally, so they remain visible more reliably when live store data is temporarily unavailable.
 - Open Store now warns more clearly when release details are incomplete, instead of silently hiding missing version fields.
+- The Open Store update card in Settings is now simpler and cleaner, with only installed and latest available version shown there.
+- The Open Store version info area in Settings is now cleaner, with source and status removed from the summary box.
+- The latest available version is now shown only in the Open Store update area, so the same version number should not repeat again in the version summary box.
 - App icons are displayed more accurately, especially for apps that use layered icon files.
 - App names are cleaned up better, so version text and extra file-name words are less likely to appear in the store list.
-- The home screen is now more compact and mobile-friendly.
-- The search section was removed to reduce clutter, while the last refreshed status was kept.
-- The app title and icon in the top bar were made a little larger for better visibility.
 
 ## Download URL
 
-- Direct latest APK download: [https://github.com/paranveer/Open-Store-Apk/releases/download/open-store-admin-large-files/Open_Store_ver_1.7.7.apk](https://github.com/paranveer/Open-Store-Apk/releases/download/open-store-admin-large-files/Open_Store_ver_1.7.7.apk)
+- Direct latest APK download: [https://github.com/paranveer/Open-Store-Apk/releases/download/open-store-admin-large-files/Open_Store_ver_1.7.8.apk](https://github.com/paranveer/Open-Store-Apk/releases/download/open-store-admin-large-files/Open_Store_ver_1.7.8.apk)
 - Release page: [https://github.com/paranveer/Open-Store-Apk/releases/tag/open-store-admin-large-files](https://github.com/paranveer/Open-Store-Apk/releases/tag/open-store-admin-large-files)
 - Always download the latest available Open Store version.
 - If the direct file link does not work for you, open the release page and download the newest APK shown there.
@@ -86,7 +86,7 @@ Only grant permissions you are comfortable with. You can review or revoke permis
 
 ## How To Use
 
-1. Install `Open_Store_ver_1.7.7.apk` on your Android device.
+1. Install `Open_Store_ver_1.7.8.apk` on your Android device.
 2. Open Open Store.
 3. Allow any required permissions when prompted.
 4. Browse the available apps or open an app card to view details.
