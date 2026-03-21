@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Open Store</h1>
-  <p><strong>Latest Available Version:</strong> 1.7.8</p>
-  <p><strong>Build Date and Time(UST)</strong> 21-MAR-2026 05:52 AM</p>
-  <p><strong>SHA1</strong> fed55d4e5781e0bca7b869119800c88e7927a2a7</p>
+  <p><strong>Latest Available Version:</strong> 1.7.9</p>
+  <p><strong>Build Date and Time(UST)</strong> 21-MAR-2026 11:11 AM</p>
+  <p><strong>SHA1</strong> 647ed9442aff01db9e1ec5ad18c1499a787306fd</p>
   <p><strong>Platform</strong> Android</p>
 </div>
 
@@ -25,6 +25,9 @@ Common features include:
 
 ## What's New / Fixes
 
+- Large app downloads now recover even when the uploaded `.apk.asset.json` file is missing the final GitHub Release asset URL. Open Store can resolve the correct release asset path more reliably, and future admin uploads preserve those URLs instead of overwriting them.
+- Generated Open Store package files now use the current `Open_Store` release channel in their manifest and README download links, so future packaged releases should stop pointing to the older repo path.
+- App downloads now use a more reliable authenticated GitHub download path in direct mode, so store downloads should stop failing across apps in the private repo setup.
 - Auto refresh now follows the interval selected in Settings. If you choose 5 minutes, the app should no longer refresh every few seconds.
 - App icons are preserved better during refreshes, so they should not keep going on and off while the catalog updates.
 - Open Store update downloads now show smoother progress while downloading.
@@ -38,14 +41,11 @@ Common features include:
 - Open Store now warns more clearly when release details are incomplete, instead of silently hiding missing version fields.
 - The Open Store update card in Settings is now simpler and cleaner, with only installed and latest available version shown there.
 - The Open Store version info area in Settings is now cleaner, with source and status removed from the summary box.
-- The latest available version is now shown only in the Open Store update area, so the same version number should not repeat again in the version summary box.
-- App icons are displayed more accurately, especially for apps that use layered icon files.
-- App names are cleaned up better, so version text and extra file-name words are less likely to appear in the store list.
 
 ## Download URL
 
-- Direct latest APK download: [https://github.com/paranveer/Open-Store-Apk/releases/download/open-store-admin-large-files/Open_Store_ver_1.7.8.apk](https://github.com/paranveer/Open-Store-Apk/releases/download/open-store-admin-large-files/Open_Store_ver_1.7.8.apk)
-- Release page: [https://github.com/paranveer/Open-Store-Apk/releases/tag/open-store-admin-large-files](https://github.com/paranveer/Open-Store-Apk/releases/tag/open-store-admin-large-files)
+- Direct latest APK download: [https://github.com/paranveer/Open_Store/releases/download/open-store-admin-large-files/Open_Store__Open_Store_ver_1.7.9.apk](https://github.com/paranveer/Open_Store/releases/download/open-store-admin-large-files/Open_Store__Open_Store_ver_1.7.9.apk)
+- Release page: [https://github.com/paranveer/Open_Store/releases/tag/open-store-admin-large-files](https://github.com/paranveer/Open_Store/releases/tag/open-store-admin-large-files)
 - Always download the latest available Open Store version.
 - If the direct file link does not work for you, open the release page and download the newest APK shown there.
 
@@ -86,7 +86,7 @@ Only grant permissions you are comfortable with. You can review or revoke permis
 
 ## How To Use
 
-1. Install `Open_Store_ver_1.7.8.apk` on your Android device.
+1. Install `Open_Store_ver_1.7.9.apk` on your Android device.
 2. Open Open Store.
 3. Allow any required permissions when prompted.
 4. Browse the available apps or open an app card to view details.
