@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Open Store</h1>
-  <p><strong>Latest Available Version:</strong> 1.7.9</p>
-  <p><strong>Build Date and Time(UST)</strong> 21-MAR-2026 11:11 AM</p>
-  <p><strong>SHA1</strong> 647ed9442aff01db9e1ec5ad18c1499a787306fd</p>
+  <p><strong>Latest Available Version:</strong> 1.8.0</p>
+  <p><strong>Build Date and Time(UST)</strong> 21-MAR-2026 11:55 AM</p>
+  <p><strong>SHA1</strong> 9cae0deafd7c401b6a51febeb548419855b23f66</p>
   <p><strong>Platform</strong> Android</p>
 </div>
 
@@ -38,8 +38,11 @@ Common features include:
 
 ## What's New / Fixes
 
+- The Open Store Settings screen no longer repeats `Current installed` version text in multiple places.
+- Build date and time in the Open Store version summary now read correctly from the latest README format, including combined lines like `Build Date and Time(UST) ...`.
 - Large app downloads now recover even when the uploaded `.apk.asset.json` file is missing the final GitHub Release asset URL. Open Store can resolve the correct release asset path more reliably, and future admin uploads preserve those URLs instead of overwriting them.
 - Generated Open Store package files now use the current `Open_Store` release channel in their manifest and README download links, so future packaged releases should stop pointing to the older repo path.
+- Open Store self-update downloads now recover more reliably when the update manifest has incomplete release URLs. The app now fills in the missing release asset path and prefers the authenticated release asset source in direct GitHub mode.
 - App downloads now use a more reliable authenticated GitHub download path in direct mode, so store downloads should stop failing across apps in the private repo setup.
 - Auto refresh now follows the interval selected in Settings. If you choose 5 minutes, the app should no longer refresh every few seconds.
 - App icons are preserved better during refreshes, so they should not keep going on and off while the catalog updates.
@@ -51,13 +54,10 @@ Common features include:
 - The Open Store update card and version details now stay aligned more reliably, so installed version, latest version, and status are shown more consistently.
 - Manual Open Store update checks now refresh the installed app version more reliably, so the update status should stay correct after you tap `Check for Open Store Update`.
 - Open Store now keeps the latest version details saved locally, so they remain visible more reliably when live store data is temporarily unavailable.
-- Open Store now warns more clearly when release details are incomplete, instead of silently hiding missing version fields.
-- The Open Store update card in Settings is now simpler and cleaner, with only installed and latest available version shown there.
-- The Open Store version info area in Settings is now cleaner, with source and status removed from the summary box.
 
 ## Download URL
 
-- Direct latest APK download: [https://github.com/paranveer/Open_Store/releases/download/open-store-admin-large-files/Open_Store__Open_Store_ver_1.7.9.apk](https://github.com/paranveer/Open_Store/releases/download/open-store-admin-large-files/Open_Store__Open_Store_ver_1.7.9.apk)
+- Direct latest APK download: [https://github.com/paranveer/Open_Store/releases/download/open-store-admin-large-files/Open_Store__Open_Store_ver_1.8.0.apk](https://github.com/paranveer/Open_Store/releases/download/open-store-admin-large-files/Open_Store__Open_Store_ver_1.8.0.apk)
 - Release page: [https://github.com/paranveer/Open_Store/releases/tag/open-store-admin-large-files](https://github.com/paranveer/Open_Store/releases/tag/open-store-admin-large-files)
 - Always download the latest available Open Store version.
 - If the direct file link does not work for you, open the release page and download the newest APK shown there.
@@ -99,7 +99,7 @@ Only grant permissions you are comfortable with. You can review or revoke permis
 
 ## How To Use
 
-1. Install `Open_Store_ver_1.7.9.apk` on your Android device.
+1. Install `Open_Store_ver_1.8.0.apk` on your Android device.
 2. Open Open Store.
 3. Allow any required permissions when prompted.
 4. Browse the available apps or open an app card to view details.
