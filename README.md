@@ -10,18 +10,31 @@
 
 ## About the App
 
-Open Store is a simple app that helps users keep all supported apps in one place. In day-to-day use, it can be used to:
+Open Store is an Android app that gives users one place to access apps developed for real-life challenges and everyday use. It brings multiple apps under the same hood, so users can discover, download, install, open, and update them from one store.
 
-It is useful in real life when users want a clean, direct way to manage their apps without depending on multiple links, scattered APK files, or repeated manual checking.
+It is useful in real life when users want a single platform to explore and use apps such as:
+
+- Reflectly
+- Luma
+- LumaFlash
+- Control App Time
+- Firm App Launch
+- Fingy
+- Nature Heal
+- Neon Dodge
+- 5 Sec
+- More apps to come.
 
 Common features include:
-- check which apps are available
-- download and install apps without searching through folders manually
+- browse all supported apps in one list
+- download and install apps from one place
+- open installed apps directly from the store
 - see when a newer app version is available
 - update apps from one place
 - read important app details before downloading
-- share app feedback, suggestions, and feature requests easily
-- verify version and build details when needed
+- share app feedback for specific apps
+- send suggestions and feature requests for Open Store itself
+- verify version, build, and SHA1 details when needed
 
 ## What's New / Fixes
 
