@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Open Store</h1>
   <p><strong>Latest Available Version:</strong> 1.7.7</p>
-  <p><strong>Build Date and Time(UST)</strong> 21-MAR-2026 03:59 AM</p>
-  <p><strong>SHA1</strong> 507180e00ee57252ed3b8b3058384c585a260819</p>
+  <p><strong>Build Date and Time(UST)</strong> Not available</p>
+  <p><strong>SHA1</strong> Not available</p>
   <p><strong>Platform</strong> Android</p>
 </div>
 
@@ -10,15 +10,18 @@
 
 ## About the App
 
-Open Store is an Android app that helps you discover, download, install, and update Simba apps from one simple place.
+Open Store is a simple app that helps users keep all supported apps in one place. In day-to-day use, it can be used to:
+
+It is useful in real life when users want a clean, direct way to manage their apps without depending on multiple links, scattered APK files, or repeated manual checking.
 
 Common features include:
-- Browse all available apps in one place.
-- See which apps are already installed on your device.
-- Know when a newer version is available.
-- Open app details before downloading or installing.
-- Download, install, update, or open supported apps more easily.
-- Use Open Store Settings to share general suggestions for the store itself.
+- check which apps are available
+- download and install apps without searching through folders manually
+- see when a newer app version is available
+- update apps from one place
+- read important app details before downloading
+- share app feedback, suggestions, and feature requests easily
+- verify version and build details when needed
 
 ## What's New / Fixes
 
