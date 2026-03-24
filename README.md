@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Open Store</h1>
-  <p><strong>Latest Available Version:</strong> 1.8.1</p>
-  <p><strong>Build Date and Time(UST)</strong> 22-MAR-2026 03:38 AM</p>
-  <p><strong>SHA1</strong> e866436e93c17f39a3f9388761b9490407ab4ba6</p>
+  <p><strong>Latest Available Version:</strong> 1.8.3</p>
+  <p><strong>Build Date and Time(UST)</strong> 24-MAR-2026 02:59 AM</p>
+  <p><strong>SHA1</strong> 9e757c2b050ed67ac1a5fa7f476b256e97f3fc9d</p>
   <p><strong>Platform</strong> Android</p>
 </div>
 
@@ -36,7 +36,7 @@ Common features include:
 - send suggestions and feature requests for Open Store itself
 - verify version, build, and SHA1 details when needed
 
-## What's New / Fixes
+## Recent Fixes
 
 - Internal source-system wording is now hidden better from normal users, so GitHub, README, manifest, and path-related terms should no longer appear in the app’s normal version details or error messages.
 - The Open Store Settings screen no longer repeats `Current installed` version text in multiple places.
@@ -55,9 +55,17 @@ Common features include:
 - The Open Store update card and version details now stay aligned more reliably, so installed version, latest version, and status are shown more consistently.
 - Manual Open Store update checks now refresh the installed app version more reliably, so the update status should stay correct after you tap `Check for Open Store Update`.
 
+## Recent Features
+
+- Feedback sharing now supports an optional gallery image attachment.
+- Suggestion and feature request sharing was added in Settings as a separate section from app-specific feedback.
+- Each app section was redesigned to feel more raised and visually deeper, while staying usable on mobile screens.
+- App actions were simplified with a cleaner overflow menu for secondary options.
+- The details view now presents information in simpler grouped sections such as version, use case, features, permissions, and integrity.
+
 ## Download URL
 
-- Direct latest APK download: [https://github.com/paranveer/Open_Store/releases/download/open-store-admin-large-files/Open_Store__Open_Store_ver_1.8.1.apk](https://github.com/paranveer/Open_Store/releases/download/open-store-admin-large-files/Open_Store__Open_Store_ver_1.8.1.apk)
+- Direct latest APK download: [https://github.com/paranveer/Open_Store/releases/download/open-store-admin-large-files/Open_Store__Open_Store_ver_1.8.3.apk](https://github.com/paranveer/Open_Store/releases/download/open-store-admin-large-files/Open_Store__Open_Store_ver_1.8.3.apk)
 - Release page: [https://github.com/paranveer/Open_Store/releases/tag/open-store-admin-large-files](https://github.com/paranveer/Open_Store/releases/tag/open-store-admin-large-files)
 - Always download the latest available Open Store version.
 - If the direct file link does not work for you, open the release page and download the newest APK shown there.
@@ -99,7 +107,7 @@ Only grant permissions you are comfortable with. You can review or revoke permis
 
 ## How To Use
 
-1. Install `Open_Store_ver_1.8.1.apk` on your Android device.
+1. Install `Open_Store_ver_1.8.3.apk` on your Android device.
 2. Open Open Store.
 3. Allow any required permissions when prompted.
 4. Browse the available apps or open an app card to view details.
