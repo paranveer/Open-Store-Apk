@@ -1,0 +1,16 @@
+{
+  "type": "github_release_asset",
+  "repo": "paranveer/Open-Store-Apk",
+  "branch": "main",
+  "target_path": "Open_Store_ver_1.8.3.apk",
+  "asset_name": "Open_Store_ver_1.8.3.apk",
+  "asset_id": 380322045,
+  "asset_api_url": "https://api.github.com/repos/paranveer/Open-Store-Apk/releases/assets/380322045",
+  "asset_download_url": "https://github.com/paranveer/Open-Store-Apk/releases/download/open-store-admin-large-files/Open_Store_ver_1.8.3.apk",
+  "release_id": 298793167,
+  "release_tag": "open-store-admin-large-files",
+  "size_bytes": 56695875,
+  "sha256": "fc8aab4cd3650eb2825c288666d0c073184fd29a0c94eef8012df8ec218165f1",
+  "uploaded_at": "2026-03-24T09:07:41.194868Z",
+  "note": "Large file stored as release asset because GitHub Contents API rejects oversized binary commits."
+}
