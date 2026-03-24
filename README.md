@@ -14,16 +14,23 @@ Open Store is an Android app that gives users one place to access apps developed
 
 It is useful in real life when users want a single platform to explore and use apps such as:
 
-- Reflectly
-- Luma
-- LumaFlash
-- Control App Time
-- Firm App Launch
-- Fingy
-- Nature Heal
-- Neon Dodge
 - 5 Sec
-- More apps to come.
+- BazaarRate
+- BreakWise
+- Calciverse
+- Control App Time
+- EC Monitor
+- Firm App Launch
+- GenRoots
+- GeoPing
+- Job Radar
+- Luma
+- Multi Downloader
+- Neon Dodge
+- Reflectly
+- Same Interest
+- TapGrip
+- Usage Journal
 
 Common features include:
 - browse all supported apps in one list
